@@ -6,7 +6,7 @@ aku Fahmi, orang yang ingin menjadi fullstack developer, web designer, graphic d
 ---
 
 #### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jr.sevenn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahmi-bahrul-w-7b21b2315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4E6xUz61QV2rQ0wBwNStSQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjeer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jer.seven/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fjeer/) [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjeer)
 
 
 #### 💬 yang sering kugunakan :
