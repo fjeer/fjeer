@@ -1,4 +1,4 @@
-![banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVvcnV1MW94dWoyNWRpZWVubGNjZ2t4bzMwMTlka3N4ZnNyZGJkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ULDGyRw0uhECEhAaQ/giphy.gif)
+![banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lnN3FtcWY1enYxNDJ5eGNoNGpxOWFrZzZsZHY1YjF5NTYyZmdhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif)
 
 ### 😎 Halo semua:
 aku Fahmi, orang yang ingin menjadi fullstack developer, web designer, graphic designer.<br>sekarang sedang menempuh pendidikan di Nurul Jadid University, Information Technology Study Program<br>🏢 bagian dari @Freactioner
@@ -25,6 +25,7 @@ aku Fahmi, orang yang ingin menjadi fullstack developer, web designer, graphic d
 
 ###
 
+![banner](img/alibaba%20cloud%20certificate.png)
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fjeer&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
