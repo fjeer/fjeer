@@ -1,11 +1,12 @@
-![banner-header.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVvcnV1MW94dWoyNWRpZWVubGNjZ2t4bzMwMTlka3N4ZnNyZGJkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ULDGyRw0uhECEhAaQ/giphy.gif)
+![banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVvcnV1MW94dWoyNWRpZWVubGNjZ2t4bzMwMTlka3N4ZnNyZGJkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ULDGyRw0uhECEhAaQ/giphy.gif)
+
 ### 😎 Halo semua:
 aku Fahmi, orang yang ingin menjadi fullstack developer, web designer, graphic designer.<br>sekarang sedang menempuh pendidikan di Nurul Jadid University, Information Technology Study Program<br>🏢 bagian dari @Freactioner
 
+---
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jr.sevenn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahmi-bahrul-w-7b21b2315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4E6xUz61QV2rQ0wBwNStSQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjeer)
-
 
 
 #### 💬 yang sering kugunakan :
