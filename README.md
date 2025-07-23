@@ -1,7 +1,7 @@
 ![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVtcTZ2cTk2eXNzc2QwbGh1ZHY1a3ZleTIxN2p0bHQ4dXg0azVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif)
 
 ### 😎 Halo semua!
-aku Fahmi, orang yang ingin menjadi fullstack developer, web designer, graphic designer.<br>sekarang sedang menempuh pendidikan di Nurul Jadid University, Information Technology Study Program<br>🏢 bagian dari @Freactioner
+aku Fahmi, orang yang ingin menjadi fullstack developer, web designer, graphic designer, film maker.<br>sekarang sedang menempuh pendidikan di Nurul Jadid University, Information Technology Study Program<br>🏢 bagian dari @Freactioner
 
 ---
 
